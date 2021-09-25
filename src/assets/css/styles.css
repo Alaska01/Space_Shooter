@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-image: url('../img/b_0.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  align-items: center;
+}
