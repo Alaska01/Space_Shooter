@@ -2,11 +2,15 @@
 
 > The Space Shooter game was built with Phaser 3,  Webpack 5, and JavaScript, that runs when deployed online.  The player must kill all the enemies with lasers and avoid colliding with the enemies or the enemy lasers. The key entities in the game include the player, ChaserShip, CarrierShip, and GunShip.
 
-![screenshot](/src/assets/img/readme1.png)
+![screenshot](/src/assets/img/game1.png)
 
-![screenshot](/src/assets/img/readme2.png)
+![screenshot](/src/assets/img/game2.png)
 
-![screenshot](/src/assets/img/readme3.png)
+![screenshot](/src/assets/img/game3.png)
+
+![screenshot](/src/assets/img/game4.png)
+
+![screenshot](/src/assets/img/game5.png)
 
 ## Built With
 
