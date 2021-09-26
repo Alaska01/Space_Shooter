@@ -92,7 +92,7 @@ npm run test
  [Live Version](https://xyx.app/)
 
 
-## Authors
+## Author
 
 👨‍💻 **Aye Daniel Asoo**
 

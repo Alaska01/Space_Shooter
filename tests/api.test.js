@@ -3,8 +3,8 @@ import { getBoard, postScore } from '../src/Scenes/api/api';
 const output = {
   result: [
     {
-      user: 'ALASKA',
-      score: 265,
+      user: 'TEST',
+      score: 805,
 
     },
   ],
