@@ -37,7 +37,7 @@ At this stage, I implemented the following Scenes;
 * The Game scene for the core functionalities of the game.
 
 ### Adding functionalities to the Game Scene.
-Here i focused on adding the core functionalies of the game like,
+Here focus was on adding the core functionalies of the game like,
 - make the players to move in all directions.
 - releasing lasers whenever the user hits the spacebar key.
 - Make sure that the player can meet some enemies on its way.

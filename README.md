@@ -12,6 +12,8 @@
 
 ![screenshot](/src/assets/img/game5.png)
 
+![screenshot](/src/assets/img/game6.png)
+
 ## Built With
 
 - JavaScript
