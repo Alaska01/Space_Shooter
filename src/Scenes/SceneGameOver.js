@@ -1,4 +1,3 @@
-// api key is Q8XS8Lw5MjG4biRqnKZG
 import Phaser from 'phaser';
 import ScrollingBackground from '../Entities/Scrolling';
 import { postScore } from './api/api';

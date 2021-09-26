@@ -1,8 +1,1 @@
-import Entity from './Entity';
-
-export default class PlayerLaser extends Entity {
-  constructor(scene, x, y) {
-    super(scene, x, y, 'sprLaserPlayer');
-    this.body.velocity.y = -200;
-  }
-}
+import Entity from"./Entity";export default class PlayerLaser extends Entity{constructor(t,r,e){super(t,r,e,"sprLaserPlayer"),this.body.velocity.y=-200}}

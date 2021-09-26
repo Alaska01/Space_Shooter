@@ -1,6 +1,6 @@
 # Shooter-Game
 
-> A Space Shooter game built with Phaser 3,  Webpack 5, and JavaScript, that runs when deployed online.  The player must kill all the enemies with lasers and avoid colliding with the enemies or the enemy lasers. The key entities in the game include the player, ChaserShip, CarrierShip, and GunShip.
+> The Space Shooter game was built with Phaser 3,  Webpack 5, and JavaScript, that runs when deployed online.  The player must kill all the enemies with lasers and avoid colliding with the enemies or the enemy lasers. The key entities in the game include the player, ChaserShip, CarrierShip, and GunShip.
 
 ![screenshot](/src/assets/img/readme1.png)
 
@@ -17,7 +17,7 @@
 - Jest
 
 ## Design Process
-  Before the beginning of day 2, I have already;
+  Study given documentation for milestone one;
 
  * Learned and understood the Phaser framework necessary for the project due to the project's tight deadline. 
 
@@ -25,7 +25,7 @@
 
  * Gathered and arranged all the necessary assets (images, sprites, sounds, etc.)for the game. All the assets were gotten from open game art and used in compliance with the assets license agreement. 
 
-  At the end of day 2, I had some objectives going into day three;
+  Objectives for milestone two;
 
  * To make the game scalable and easy to play
  * To build the core functionality of the game before adding other extra features.
@@ -38,9 +38,9 @@
 To run this project locally, make sure you have done the following:
 
 - Installed Node.js, more information [here](https://nodejs.org/en/)
-- Installed Yarn package manager, more information [here](https://yarnpkg.com/)
+- Installed Node package manager, more information [here](https://docs.npmjs.com/about-npm)
 
-- Gotten a copy of the project by running 
+-Get a copy of the project by running 
 ```
  git clone https://github.com/Alaska01/Space_Shooter.git
 
@@ -111,7 +111,7 @@ Enemies: [ansimuz](https://opengameart.org/content/space-ship-shooter-pixel-art-
 Enemies: [hookiz](https://opengameart.org/content/ship-space-0)
 
 
-Background Image: [harunatsuko](https://opengameart.org/content/toy-space-background)
+Background Image: [Free Backgrounds](https://wallpaperaccess.com/full-military-battle)
 
 
 ## Show your support
