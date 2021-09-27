@@ -50,4 +50,4 @@ When the game was working already, I implemented the scoring system to keep trac
 ### Implement the Game Over Scene
 * Add functionality for the user to replay the game.
 * Add button for the menu which takes the user back to the title page
-* Add the button and functionality for the user to quit the game and return back to the User name Scene where the user is expected to enter a nickname/username to continue playing.git
+* Add the button and functionality for the user to quit the game and return back to the User name Scene where the user is expected to enter a nickname/username to continue playing.
