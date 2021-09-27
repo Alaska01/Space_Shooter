@@ -71,6 +71,7 @@ In the project root folder run
 npm run test
 
 ```
+![screenshot](/src/assets/img/gamestest.png)
 
 ## How to play
 - Open the game and allow it to boot
@@ -89,7 +90,7 @@ npm run test
 
 ## Live version
 
- [Live Version](https://xyx.app/)
+ [Live Version](https://aye-space-shooter.netlify.app/)
 
 
 ## Author
