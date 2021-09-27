@@ -71,7 +71,7 @@ In the project root folder run
 npm run test
 
 ```
-![screenshot](/src/assets/img/gamestest.png)
+![screenshot](/src/assets/img/gametests.png)
 
 ## How to play
 - Open the game and allow it to boot
