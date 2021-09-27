@@ -1,6 +1,6 @@
 # Shooter-Game
 
-> The Space Shooter game was built with Phaser 3,  Webpack 5, and JavaScript, that runs when deployed online.  The player must kill all the enemies with lasers and avoid colliding with the enemies or the enemy lasers. The key entities in the game include the player, ChaserShip, CarrierShip, and GunShip.
+- The Space Shooter game was built with Phaser 3,  Webpack 5, and JavaScript, that runs when deployed online.  The player must kill all the enemies with lasers and avoid colliding with the enemies or the enemy lasers. The key entities in the game include the player, ChaserShip, CarrierShip, and GunShip.
 
 ![screenshot](/src/assets/img/game1.png)
 
@@ -23,21 +23,19 @@
 - Jest
 
 ## Design Process
-  Study given documentation for milestone one;
+  Study given documentation for various milestones;
 
- * Learned and understood the Phaser framework necessary for the project due to the project's tight deadline. 
+ - Learned and understood the Phaser framework necessary for the project due to the project's tight deadline. 
 
- * Learn and practiced setting up Webpack with phaser that is necessary for the bundling of the project dependencies.
+ - Learn and practiced setting up Webpack with phaser that is necessary for the bundling of the project dependencies.
 
- * Gathered and arranged all the necessary assets (images, sprites, sounds, etc.)for the game. All the assets were gotten from open game art and used in compliance with the assets license agreement. 
+ - Gathered and arranged all the necessary assets (images, sprites, sounds, etc.)for the game. All the assets were gotten from open game art and used in compliance with the assets license agreement. 
 
   Objectives for milestone two;
 
- * To make the game scalable and easy to play
- * To build the core functionality of the game before adding other extra features.
- * Implement the BootScene, PreloaderScene, TitleScene, and the MainScene to make the player move with control.
-
-
+ - To make the game scalable and easy to play
+ - To build the core functionality of the game before adding other extra features.
+ - Implement the BootScene, PreloaderScene, TitleScene, and the MainScene to make the player move with control.
 
 ## Getting Started
 
@@ -45,8 +43,8 @@ To run this project locally, make sure you have done the following:
 
 - Installed Node.js, more information [here](https://nodejs.org/en/)
 - Installed Node package manager, more information [here](https://docs.npmjs.com/about-npm)
-
 -Get a copy of the project by running 
+
 ```
  git clone https://github.com/Alaska01/Space_Shooter.git
 
